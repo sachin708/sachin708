@@ -1,6 +1,6 @@
-### Hi there 👋
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Yogesh kushawah</h1>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Sachin Mohite</h1>
 
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" />
@@ -20,7 +20,7 @@
 
 - 💬 Ask me about HTML, CSS, JavaScript, React, Redux, Node, MongoDB, Express
 
-- 📫 How to reach me kushawahyogesh93@gmail.com
+- 📫 How to reach me sachinmohite708@gmail.com
 
 - 🔭 Visit my <a href=""><strong>portfolio</strong></a>
 
@@ -34,8 +34,8 @@
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yogeshkushawah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakarsh-devadiga-416a901a5" height="30" width="40" /></a>
-<a href="https://instagram.com/a_aakarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_aakarsh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sachin-mohite-0893a7203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakarsh-devadiga-416a901a5" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_aakarsh" height="30" width="40" /></a>
 </p>
 
 <br/>
@@ -80,15 +80,6 @@
 </div>
 
 <br/>
-
-## 📊 My Github Stats
-
-<p align="center">
-    <a href="">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshmasaistudent&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
 
   <br/>
 <br/>

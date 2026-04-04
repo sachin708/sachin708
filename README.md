@@ -87,7 +87,7 @@
 <br/>
 
 <div align="center">
- <img src="https://img.shields.io/github/stars/sachin708?style=for-the-badge&logo=github&logoColor=white" align="center" alt="github-stars"/>
+ <img src="https://img.shields.io/github/stars/sachin708/<repository>?style=for-the-badge&logo=github&logoColor=white" align="center" alt="github-stars"/>
 <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin708&theme=tokyonight" alt="mystreak" width="670">
 

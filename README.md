@@ -48,7 +48,6 @@
 </div>
 
 ---
-
 <h3>🧑‍💼 Professional Overview</h3>
 
 <p>

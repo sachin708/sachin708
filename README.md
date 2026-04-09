@@ -62,7 +62,6 @@
 <p>
 🧠 <strong>Strong Problem Solver:</strong> Skilled in Data Structures & Algorithms with a focus on optimized solutions, performance tuning, and writing scalable logic.
 </p>
-
 <p>
 🤝 <strong>Team Player & Leader:</strong> Experience collaborating in agile environments, mentoring peers, and contributing to high-performing engineering teams.
 </p>

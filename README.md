@@ -96,7 +96,6 @@
 
 <ul>
 <li>💻 Designed and developed a fully responsive full-stack web application using modern technologies.</li>
-
 <li>👨‍🏫 Mentored students by guiding them on coding best practices, problem-solving approaches, and real-world development skills.</li>
 
 </ul>

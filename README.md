@@ -31,7 +31,7 @@
 - 🌱 Exploring advanced concepts in **Full Stack Development**
 - 💬 Ask me about **React, Next.js, JavaScript, Redux, Node.js**
 - 📫 Reach me at: **sachinmohite708@gmail.com**
-- 🔭 Portfolio: <a href="#"><strong>View Portfolio</strong></a>
+- 🔭 Portfolio: <a href="https://sachin-mohite-por.netlify.app/"><strong>View Portfolio</strong></a>
 - ⚡ Fun fact: I love **road trips & learning new tech**
 
 ---

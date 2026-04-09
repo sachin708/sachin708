@@ -1,105 +1,97 @@
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Sachin Mohite</h1>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Sachin Mohite
+</h1>
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;NextJs+Developer;Frontend+Developer;Quick+learner&color=cyan&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer+with+2%2B+Years+Experience;MERN+Stack+Developer;React+%7C+Next.js+Specialist;Building+Scalable+Web+Apps;Clean+Code+Enthusiast&color=cyan&center=true" />
 </div>
 
-<h4>- Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h4>
-<h4>- I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems </h4>
+---
 
-<br/>
+<h3>💼 Professional Summary</h3>
+
+- 👨‍💻 Frontend Developer with **2+ years of experience** at **Narayana Group**
+- ⚡ Specialized in building **responsive, scalable, and high-performance web applications**
+- 🚀 Strong expertise in **React, Next.js, and modern JavaScript ecosystem**
+- 🧠 Passionate about **clean code, performance optimization, and UI/UX**
+- 🌱 Continuously learning and adapting to new technologies
+
+---
+
 <img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="400"/>
 
-<h3> 🙋‍♂️ About Me </h3>
+<h3>🙋‍♂️ About Me</h3>
 
-- 🌱 I’m currently learning Full Stack Web Development course at Masai School
+- 🏢 Currently working as **Associate Software Developer (Frontend)** at **Narayana Group**
+- 💡 2 years of hands-on experience in real-world projects
+- 🌱 Exploring advanced concepts in **Full Stack Development**
+- 💬 Ask me about **React, Next.js, JavaScript, Redux, Node.js**
+- 📫 Reach me at: **sachinmohite708@gmail.com**
+- 🔭 Portfolio: <a href="#"><strong>View Portfolio</strong></a>
+- ⚡ Fun fact: I love **road trips & learning new tech**
 
-- 👯 I’m looking to work as Full Stack Web Developer
+---
 
-- 💬 Ask me about HTML, CSS, JavaScript, React, Redux, Node, MongoDB, Express
-
-- 📫 How to reach me sachinmohite708@gmail.com
-
-- 🔭 Visit my <a href=""><strong>portfolio</strong></a>
-
-- ⚡️ Fun fact I love to read and enjoy going on road trips
-
-
-
-<br/>
-
-<br/>
-
-<h3 align="left">Connect with me on:</h3>
+<h3 align="left">🤝 Connect with me</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sachin-mohite-0893a7203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakarsh-devadiga-416a901a5" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_aakarsh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sachin-mohite-0893a7203/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
 </p>
 
-<br/>
+---
 
-<h3 align="left">🚀 Languages and Tools:</h3>
-<div align="center">
- 
- <div align="center"><h3 align="center">Frontend</h3>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
-<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
-<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
-<img src = "https://img.shields.io/badge/tailwind css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" align="center" alt="tailwindcss"/>
-<br/>
-<br/>
-  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
-  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" align="center" alt="nextjs"/> 
-<img src="https://img.shields.io/badge/Motion-FF0080.svg?style=for-the-badge&logo=framer&logoColor=white" align="center" alt="motion"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-007BFF.svg?style=for-the-badge&logo=framer&logoColor=white" align="center" alt="framer-motion"/>
-</div>
- <br/>
-  <div align="center"><h3 align="center">Backend</h3> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
-<img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose"/>
-   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" align="center" alt="jwt"/>
- </div>
-  <div align="center"><h3 align="center">Tools</h3>
-<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
-<img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
-   <br/>
-<br/>
- </div>
-</div>
+<h3 align="left">🚀 Tech Stack</h3>
 
-<br/>
+<h4>🎨 Frontend</h4>
 
-  <br/>
-<br/>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+<img src="https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui"/>
+<img src="https://img.shields.io/badge/ChakraUI-4ED1C5?style=for-the-badge&logo=chakraui"/>
+</p>
+
+---
+
+<h4>⚙️ Backend</h4>
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+</p>
+
+---
+
+<h4>🛠 Tools & Platforms</h4>
+
+<p>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+<img src="https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm"/>
+<img src="https://img.shields.io/badge/VSCode-5C2D91?style=for-the-badge&logo=visual-studio-code"/>
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
- <img src="https://img.shields.io/github/stars/sachin708/<repository>?style=for-the-badge&logo=github&logoColor=white" align="center" alt="github-stars"/>
-<br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin708&theme=tokyonight" alt="mystreak" width="670">
 
-  <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachin708&theme=github_dark"  width="670">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sachin708&theme=github_dark">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sachin708&theme=github_dark">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sachin708&theme=github_dark">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sachin708&theme=github_dark&utcOffset=8">
-  </p>
-</div>
-
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin708&theme=tokyonight" width="700"/>
 
 <br/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachin708&theme=github_dark" width="700"/>
+
+</div>

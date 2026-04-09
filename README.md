@@ -10,6 +10,7 @@
 ---
 
 <h3>💼 Professional Summary</h3>
+
 - 👨‍💻 Frontend Developer with **2+ years of experience** at **Narayana Group**
 - ⚡ Specialized in building **responsive, scalable, and high-performance web applications**
 - 🚀 Strong expertise in **React, Next.js, and modern JavaScript ecosystem**

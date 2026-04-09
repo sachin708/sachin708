@@ -88,7 +88,6 @@
 <li>🔗 Collaborated closely with backend teams to integrate RESTful APIs and deliver efficient, data-driven applications.</li>
 
 <li>⚡ Designed reusable components and scalable frontend architecture improving performance, maintainability, and load speed.</li>
-
 </ul>
 
 <h4>🏫 Full Stack Developer</h4>

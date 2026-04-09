@@ -130,7 +130,7 @@
 ---
 
 <i align="center">
-⭐ <strong>Actively seeking high-impact engineering roles.<br/>
+⭐ Actively seeking high-impact engineering roles.<br/>
 Always learning, always building 🚀
 </i>
 
@@ -139,5 +139,5 @@ Always learning, always building 🚀
 <h3 align="center">👀 Profile Views</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sachin708&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile-views" />
+<img src="https://komarev.com/ghpvc/?username=sachin708&label=Profile%80views&color=0e75b6&style=for-the-badge" alt="profile-views" />
 </p>

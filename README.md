@@ -20,7 +20,9 @@
 
 <img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="400"/>
 <h3>🙋‍♂️ About Me</h3>
+
 - 🏢 Currently working as **Associate Software Developer (Frontend)** at **Narayana Group**
+
 - 💡 2 years of hands-on experience in real-world projects
 - 🌱 Exploring advanced concepts in **Full Stack Development**
 - 💬 Ask me about **React, Next.js, JavaScript, Redux, Node.js, Express.js**

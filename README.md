@@ -70,3 +70,61 @@
 </a>
 
 </p>
+
+---
+
+<h3>🧑‍💼 Professional Overview</h3>
+
+<p>
+👨‍💻 <strong>2+ Years of Experience:</strong> Proven expertise in building and scaling production-ready applications using the MERN stack with a strong focus on frontend excellence.
+</p>
+
+<p>
+⚡ <strong>AI-Powered Developer:</strong> Advanced user of modern AI tools like Cursor IDE and LLMs to write clean, secure, and highly efficient code by combining human logic with AI acceleration.
+</p>
+
+<p>
+🧠 <strong>Strong Problem Solver:</strong> Skilled in Data Structures & Algorithms with a focus on optimized solutions, performance tuning, and writing scalable logic.
+</p>
+
+<p>
+🤝 <strong>Team Player & Leader:</strong> Experience collaborating in agile environments, mentoring peers, and contributing to high-performing engineering teams.
+</p>
+
+<p>
+🚀 <strong>Currently Exploring:</strong> Cloud scaling (AWS/GCP) and next-gen AI architectures like LangChain & Agentic workflows.
+</p>
+
+---
+
+<h3>💼 Professional Journey</h3>
+
+<h4>🏢 Associate Software Developer (Frontend)</h4>
+<p>
+<strong>Narayana Group (GTET)</strong> | Remote (Bangalore)
+</p>
+
+<ul>
+<li>🚀 Developed and maintained multiple large-scale platforms including UPSC Website, Narayana Group V2, Narayana School, GTET, Gujarat Website, Digital Marketing Platform, and CMS systems.</li>
+
+<li>🎨 Built highly responsive and user-friendly interfaces using <strong>Next.js, React.js, TypeScript, Redux, and Tailwind CSS</strong> ensuring seamless cross-device experience.</li>
+
+<li>🔗 Collaborated closely with backend teams to integrate RESTful APIs and deliver efficient, data-driven applications.</li>
+
+<li>⚡ Designed reusable components and scalable frontend architecture improving performance, maintainability, and load speed.</li>
+
+</ul>
+
+---
+
+<h4>🏫 Full Stack Developer</h4>
+<p>
+<strong>Masai School</strong> | Remote (Bangalore)
+</p>
+
+<ul>
+<li>💻 Designed and developed a fully responsive full-stack web application using modern technologies.</li>
+
+<li>👨‍🏫 Mentored students by guiding them on coding best practices, problem-solving approaches, and real-world development skills.</li>
+
+</ul>

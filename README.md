@@ -128,3 +128,18 @@
 </p>
 
 ---
+
+<h3 align="center">🌟 Let's Build Something Amazing Together!</h3>
+
+<p align="center">
+⭐ <strong>Actively seeking high-impact engineering roles.</strong><br/>
+Always learning, always building 🚀
+</p>
+
+<br/>
+
+<h3 align="center">👀 Profile Views</h3>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sachin708&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile-views" />
+</p>

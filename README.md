@@ -7,7 +7,6 @@
 </div>
 
 <h4>- Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h4> <h4>- I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems </h4>
-
 ---
 <h3>💼 Professional Summary</h3>
 

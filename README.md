@@ -96,8 +96,6 @@
 
 </ul>
 
----
-
 <h4>🏫 Full Stack Developer</h4>
 <p>
 <strong>Masai School</strong> | Remote (Bangalore)
@@ -109,6 +107,8 @@
 <li>👨‍🏫 Mentored students by guiding them on coding best practices, problem-solving approaches, and real-world development skills.</li>
 
 </ul>
+
+---
 
 <h3 align="left">🤝 Connect with me</h3>
 <p align="left">

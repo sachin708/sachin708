@@ -86,7 +86,6 @@
 <li>🎨 Built highly responsive and user-friendly interfaces using <strong>Next.js, React.js, TypeScript, Redux, and Tailwind CSS</strong> ensuring seamless cross-device experience.</li>
 
 <li>🔗 Collaborated closely with backend teams to integrate RESTful APIs and deliver efficient, data-driven applications.</li>
-
 <li>⚡ Designed reusable components and scalable frontend architecture improving performance, maintainability, and load speed.</li>
 </ul>
 

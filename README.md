@@ -129,12 +129,10 @@
 
 ---
 
-<h3 align="center">🌟 Let's Build Something Amazing Together!</h3>
-
-<p align="center">
-⭐ <strong>Actively seeking high-impact engineering roles.</strong><br/>
+<i align="center">
+⭐ <strong>Actively seeking high-impact engineering roles.<br/>
 Always learning, always building 🚀
-</p>
+</i>
 
 <br/>
 

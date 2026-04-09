@@ -13,9 +13,7 @@
 - 🚀 Strong expertise in **React, Next.js, and modern JavaScript ecosystem**
 - 🧠 Passionate about **clean code, performance optimization, and UI/UX**
 - 🌱 Continuously learning and adapting to new technologies
-
 ---
-
 <img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="400"/>
 
 <h3>🙋‍♂️ About Me</h3>

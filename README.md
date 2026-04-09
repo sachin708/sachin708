@@ -3,7 +3,6 @@
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Sachin Mohite
 </h1>
-
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;MERN+Stack+Developer;React+%7C+Next.js+Specialist;Building+Scalable+Web+Apps;Clean+Code+Enthusiast&color=cyan&center=true" />
 </div>

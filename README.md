@@ -129,10 +129,12 @@
 
 ---
 
-<i align="center">
-⭐ Actively seeking high-impact engineering roles.<br/>
-Always learning, always building 🚀
-</i>
+<p align="center">
+  <em>
+    ⭐ Actively seeking high-impact engineering roles.<br/>
+    Always learning, always building 🚀
+  </em>
+</p>
 
 <br/>
 
